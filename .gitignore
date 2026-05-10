@@ -1,0 +1,15 @@
+# Coq compilation artifacts
+*.vo
+*.vok
+*.vos
+*.glob
+*.aux
+.*.aux
+.lia.cache
+CoqMakefile
+CoqMakefile.conf
+.CoqMakefile.d
+
+# OCaml extraction artifacts
+*.ml
+*.mli
